@@ -50,17 +50,11 @@ Such a system has potential applications in **military reconnaissance, disaster 
 
 ---
 
-## 📸 Demo  
-> Insert robot build photos, videos, or simulation screenshots here.  
-
----
-
 ## 👨‍💻 Contributors  
-- **Your Name** – Project Lead  
-- Team Members (if any)  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to use and modify.  
-
+- **Ananth Jeeth Vuppala**  
+- **Phani Anirudh**  
+- **Sujana**  
+- **Mouli**  
+- **Pavan Raju**  
+- **Mani Chand**  
+- **Madar**  
